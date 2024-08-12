@@ -22,5 +22,6 @@ public class Product implements Serializable {
         this.imagePath = imagePath;
         this.title = title;
         this.description = description;
+
     }
 }
